@@ -46,3 +46,9 @@ h2 {
     color: white;
     text-align: center;
 }
+
+.cen {
+    justify-items: center;
+    align-items: center;
+    display: grid;
+}
